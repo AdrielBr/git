@@ -1,15 +1,15 @@
-body { background-color: #EC7063; }
+body { background-color: #DC7633 ; }
 
 .caja  { 
 		heigth: 300px;
 		 width: 300px;
-		 background-color:#E6B0AA;
-		 border-style:ridge; }
+		 background-color:#EDBB99;
+		 border-style: double; }
 
 .caja2 {heigth: 300px;
 		width: 300px;
-		background-color:#E6B0AA;
-		border-style:ridge;}
+		background-color:#EDBB99;
+		border-style: double;}
 
 img { object-fit: contain;
 		heigth: 300px;
@@ -20,3 +20,5 @@ img { object-fit: contain;
 header {display: flex;
 		flex-direction: row;
 		}
+li {display: flex;
+	flex-direction: row-reverse;}
