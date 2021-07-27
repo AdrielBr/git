@@ -1,6 +1,22 @@
-
+body { background-color: #EC7063; }
 
 .caja  { 
 		heigth: 300px;
-		 width: 100px;
-		 background:#ff00ff }
+		 width: 300px;
+		 background-color:#E6B0AA;
+		 border-style:ridge; }
+
+.caja2 {heigth: 300px;
+		width: 300px;
+		background-color:#E6B0AA;
+		border-style:ridge;}
+
+img { object-fit: contain;
+		heigth: 300px;
+		width: 300px;
+
+}
+
+header {display: flex;
+		flex-direction: row;
+		}
